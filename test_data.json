@@ -1,0 +1,35 @@
+[
+  {
+    "login_details": {
+      "phone": "0729605854",
+      "pin": "142536"
+    }
+  },
+  {
+    "account_details": {
+      "account_number": "8000010011315",
+      "amount": "10.00",
+      "purpose": "Test",
+      "passcode": "142536"
+    }
+  },
+  {
+    "mpesa_money": {
+      "mpesa_number": "0708374149",
+      "amount": "500.00",
+      "amount1": "10.00",
+      "purpose": "Test",
+      "passcode": "142536"
+    }
+  },
+  {
+    "airtel_money": {
+      "airtel_number": "0780320654",
+      "amount": "10.00",
+      "amount2": "500.00",
+      "purpose": "Test",
+      "passcode": "142536",
+      "airtel_money_success_message": ""
+    }
+  }
+]
